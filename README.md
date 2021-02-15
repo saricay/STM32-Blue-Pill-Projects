@@ -10,6 +10,6 @@ Week10: Implementation of P and PI type controllers
 Midterm: Speed control simulation using 3 LEDs, 2 buttons and a potentiometer   
 Final: Implementation of a temperature control system 
 
-The projects' description files can be found on the description_project folder 
+The projects' description files can be found on the Project_Descriptions folder 
 
 
