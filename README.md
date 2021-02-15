@@ -1,4 +1,4 @@
-# Blue Pill Projects
+# Blue Pill (STMF103C8T6) Projects 
 Week3: LED control application using built-in LED on STM32F1 Kit  
 Week4: Finite state machine design and coding for traffic light control application using external LEDs    
 Week5: Finite state machine design and coding for traffic light control application by using external interrupts    
